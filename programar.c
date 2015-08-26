@@ -1,6 +1,7 @@
-#include <stdio.h>
+include <stdio.h>
 
 int main(){
-  printf("Generando conflicto (x ");
+
+  printf("primer conflicto :)");
   return 0;
 }
